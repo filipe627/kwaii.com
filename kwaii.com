@@ -1,7 +1,7 @@
 {
-  "name": "kwaaii",
+  "name": "kwaii.site",
   "version": "1.0.0",
-  "private": true,
+  "public": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
